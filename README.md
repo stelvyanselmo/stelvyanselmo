@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stelvyanselmo
-- 👀 I’m interested in backend development ...
-- 🌱 I’m currently learning design patterns & software arquitecture...
-- 📫 You can reach me in LinkeDIN -> www.linkedin.com/in/stelvy-anselmo ...
+- 👋 Hi, I’m @stelvyanselmo,
+- 👀 I’m interested in backend development and software arquitecture.
+- 🌱 I’m currently learning microservices, design patterns & software arquitecture.
+- 📫 You can reach me in LinkeDIN -> www.linkedin.com/in/stelvy-anselmo.
 
 <!---
 stelvyanselmo/stelvyanselmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
